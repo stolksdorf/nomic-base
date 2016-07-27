@@ -9,7 +9,7 @@ _— Peter Suber, The Paradox of Self-Amendment_
 
 # how to play
 
-All you need is a github account. All rules will always be recorded in the [rules.md] and all scores/players/reosurces and turn order will be recorded in the [players.md].
+All you need is a github account. All rules will always be recorded in the [rules.md](./rules.md) and all information about players and resources will be recorded in the [players.md](./players.md).
 
 ### propose a rule change
 
