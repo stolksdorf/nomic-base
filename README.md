@@ -33,7 +33,6 @@ There are some aspects of the game that will not be listed as a changable rule, 
 
 * Players will obey the rules at all times
 * Players are considered playing the game unless explicitly stated
-* It is assumed that when you propose a rule change, you are in favour of it. If you wish to vote against your own rule, you must state that within the pull request of the proposal.
 
 ### moderators
 
