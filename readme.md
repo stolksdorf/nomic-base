@@ -1,13 +1,13 @@
 # nomic
 Github-based game of [Nomic](https://en.wikipedia.org/wiki/Nomic)
 
-# what is nomic
+## what is nomic
 
 > Nomic is a game in which changing the rules is a move. In that respect it differs from almost every other game. The primary activity of Nomic is proposing changes in the rules, debating the wisdom of changing them in that way, voting on the changes, deciding what can and cannot be done afterwards, and doing it. Even this core of the game, of course, can be changed.
 
 _— Peter Suber, The Paradox of Self-Amendment_
 
-# how to play
+## how to play
 All you need is a github account. All rules will always be recorded in the [rules.md](./rules.md) and all information about players and resources will be recorded in the [players.md](./players.md).
 
 ### propose a rule change
@@ -22,7 +22,7 @@ All you need is a github account. All rules will always be recorded in the [rule
 3. Write your comment or vote. For voting, start your comment with "AGREED" or "DECLINE", followed by X/Y, which stands for how many people are in favour / how many people have voted. This gives us a easily check-able state of voting at a glance. ![](http://i.imgur.com/F1j6NF0.jpg)
 
 
-### implicit rules
+## implicit rules
 There are some aspects of the game that will not be listed as a changable rule, but still will take effect. Most of these will be obvious, but we'll list them here for reference.
 
 * Players will obey the rules at all times
