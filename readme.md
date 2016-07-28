@@ -11,13 +11,13 @@ _— Peter Suber, The Paradox of Self-Amendment_
 All you need is a github account. All rules will always be recorded in the [rules.md](./rules.md) and all information about players and resources will be recorded in the [players.md](./players.md).
 
 ### propose a rule amendment
-1. Click the `rules.md` ![](http://i.imgur.com/gtWUHWd.jpg)
-2. Click the pencil icon to edit the file ![](http://i.imgur.com/rGYJ88i.jpg)
-3. Write your proposed change in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Give a short title to your change, and an more in-depth reasoning behind it. Then click `propose file change`. ![](http://i.imgur.com/3rlMJVc.jpg)
+1. Click `rules.md`
+2. Click the pencil icon to edit the file.
+3. Write your proposed change in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Give a short title to your change, and an more in-depth reasoning behind it. Then click `propose file change`.
 4. Click `Create Pull Request` twice and
 
 ### comment and vote on amendments
-1. Click the 'Pull requests' along the top. <!-- tab off to the left. ![](http://i.imgur.com/eP2OUwe.jpg) -->
+1. Click the 'Pull requests' along the top.
 2. Click on the pull request you wish to vote or comment on.
 3. Write your comment or vote. For voting, use the reactions on the top comment to vote. :+1: to vote for it and :-1: to vote against.
 
