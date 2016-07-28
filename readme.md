@@ -14,7 +14,7 @@ All you need is a github account. All rules will always be recorded in the [rule
 1. Click `rules.md`
 2. Click the pencil icon to edit the file.
 3. Write your proposed change in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Give a short title to your change, and an more in-depth reasoning behind it. Then click `propose file change`.
-4. Click `Create Pull Request` twice and
+4. Click "Propose file change" then "Create Pull Request".
 
 ### comment and vote on amendments
 1. Click the 'Pull requests' along the top.
