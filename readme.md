@@ -17,8 +17,8 @@ All you need is a github account. All rules will always be recorded in the [rule
 4. Click `Create Pull Request` twice and
 
 ### comment and vote on amendments
-1. Click the 'Pull requests' alogn the top. <!-- tab off to the left. ![](http://i.imgur.com/eP2OUwe.jpg) -->
-2. Click on the pull request you wish to vote or comment on
+1. Click the 'Pull requests' along the top. <!-- tab off to the left. ![](http://i.imgur.com/eP2OUwe.jpg) -->
+2. Click on the pull request you wish to vote or comment on.
 3. Write your comment or vote. For voting, use the reactions on the top comment to vote. :+1: to vote for it and :-1: to vote against.
 
 ## implicit rules
