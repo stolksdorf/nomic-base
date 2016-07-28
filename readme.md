@@ -24,11 +24,11 @@ All you need is a github account. All rules will always be recorded in the [rule
 ## implicit rules
 There are some aspects of the game that will not be listed as a changable rule, but still will take effect. Most of these will be obvious, but we'll list them here for reference.
 
-i. Players will obey the rules at all times
-ii. Players are considered playing the game unless explicitly stated
-iii. No rule-change may take effect earlier than the moment of the completion of the vote that adopted it, even if its wording explicitly states otherwise. No rule-change may have retroactive application.
-iv. If ever there is a disagreement over the intepretation of the rules that can not be resolved by the players, the arbiter may be called upon to cast judgment on the intepretation.
-v. Amendments are to be merged in chronoloigcal order of when they are accepted.
+1. Players will obey the rules at all times
+1. Players are considered playing the game unless explicitly stated
+1. No rule-change may take effect earlier than the moment of the completion of the vote that adopted it, even if its wording explicitly states otherwise. No rule-change may have retroactive application.
+1. If ever there is a disagreement over the intepretation of the rules that can not be resolved by the players, the arbiter may be called upon to cast judgment on the intepretation.
+1. Amendments are to be merged in chronoloigcal order of when they are accepted.
 
 ### transfers
 To initiate  a transfer of any kind between two players, one of those players submits a pull request for the [players.md](players.md) outlining the exchange. The other participant must approve the proposed exchange in the comments. Once approved a Mod will merge the change in. Please mark any transfer pull request by starting the pull request name with 'TRANSFER'.
