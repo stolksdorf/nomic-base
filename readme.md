@@ -20,6 +20,7 @@ All you need is a github account. All rules will always be recorded in the [rule
 1. Click the 'Pull requests' along the top.
 2. Click on the pull request you wish to vote or comment on.
 3. Write your comment or vote. For voting, use the reactions on the top comment to vote. :+1: to vote for it and :-1: to vote against.
+4. TODO : Write in pass fail and a mod will merge it
 
 ## implicit rules
 There are some aspects of the game that will not be listed as a changable rule, but still will take effect. Most of these will be obvious, but we'll list them here for reference.
