@@ -29,3 +29,6 @@
 
 #### 106: Rule of Completion
 > This game ends on September 1st 2016, midnight.
+
+#### 107: Rule of Payment for Good Work
+> Upon the successful implementation of a new rule, or an amendment to an existing rule, CapnMadrick is considered to have given the originator of that rule or amendment a high-five. These high-fives cannot be gained through any other means, cannot be lost, stolen, returned, or traded.
