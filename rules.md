@@ -14,8 +14,6 @@
 
 #### 103: Rule of Amendment 
 > A player may submit an amendment<sup>1</sup> to the rules at any time. A player may only have one amendment open for voting and discussion at a time. The amendment may not be edited once it is submitted for voting and discussion. A player may close their amendment at any time. 
->
-> When an amendment is approved to be merged, only a moderator may merge the amendment. The proposee may comment on the discussion to inform a moderator to merge it. 
 
 [<sup>1</sup> How to propose](./readme.md#propose-a-rule-amendment)
 
