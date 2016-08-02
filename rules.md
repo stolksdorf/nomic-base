@@ -12,15 +12,15 @@
 > Points may not be gained, lost, or traded except as explicitly stated in the rules.
 
 
-#### 103: Rule of Admendment 
-> A player may submit an admendant<sup>1</sup> to the rules at any time. A player may only have one admendant open for voting and discussion at a time. The admendant may not be edited once it is submitted for voting and discussion. A player may close their admendant at any time. 
+#### 103: Rule of Amendment 
+> A player may submit an amendment<sup>1</sup> to the rules at any time. A player may only have one amendment open for voting and discussion at a time. The amendment may not be edited once it is submitted for voting and discussion. A player may close their amendment at any time. 
 >
-> When an admendant is approved to be merged, only a moderator may merge the admendant. The proposee may comment on the discussion to inform a moderator to merge it. 
+> When an amendment is approved to be merged, only a moderator may merge the amendment. The proposee may comment on the discussion to inform a moderator to merge it. 
 
-[<sup>1</sup> How to vote](./readme.md#propose-a-rule-amendment)
+[<sup>1</sup> How to propose](./readme.md#propose-a-rule-amendment)
 
 #### 104: Liberum Veto
-> An admendant is approved if and only if the vote<sup>1</sup> is unanimous among the eligible voters.
+> An amendment is approved if and only if the vote<sup>1</sup> is unanimous among the eligible voters.
 
 [<sup>1</sup> How to vote](./readme.md#comment-and-vote-on-amendments)
 
