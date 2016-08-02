@@ -18,7 +18,7 @@
 [<sup>1</sup> How to propose](./readme.md#propose-a-rule-amendment)
 
 #### 104: Liberum Veto
-> An amendment is approved if and only if the vote<sup>1</sup> is unanimous among the eligible voters.
+> An amendment is approved if and only if the vote<sup>1</sup> is unanimous among the eligible players.
 
 [<sup>1</sup> How to vote](./readme.md#comment-and-vote-on-amendments)
 
