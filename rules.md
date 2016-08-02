@@ -1,9 +1,9 @@
 ## Rules
 
 #### 101: Victory Condition
-> i. If a player has 100 or more points the game ends.
+> If a player has 100 or more points the game ends.
 >
-> ii. If the game ends, the player with the most points is considered the winner.
+> If the game ends, the player with the most points is considered the winner.
 
 
 #### 102: Points
