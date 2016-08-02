@@ -37,10 +37,10 @@ There are some aspects of the game that will not be listed as a changable rule, 
 1. Amendments are to be merged in chronoloigcal order of when they are accepted.
 
 ### transfers
-To initiate  a transfer of any kind between two players, one of those players submits a pull request for the [players.md](players.md) outlining the exchange. The other participant must approve the proposed exchange in the comments. Once approved a Mod will merge the change in. Please mark any transfer pull request by starting the pull request name with 'TRANSFER'.
+To initiate  a transfer of any kind between two players, one of those players submits a pull request modifying [players.md](players.md) outlining the exchange. The other participant must approve the proposed exchange in the comments. Once approved, a mod will merge the change in. Please mark any transfer pull request by starting the pull request name with 'TRANSFER'.
 
 ### moderators
-Each moderator will be set as a `collaborator` on the github repo, all other players will be `contributors`. Their job is to merge in approved pull requests, close disapproved ones, and update resources if need be. There should be a minimum of two moderators.
+Each moderator will be set as a `collaborator` on the github repo, all other players will be `contributors`. Their job is to merge in approved pull requests and update resources. There should be a minimum of two moderators.
 
 ### the arbiter
 The arbiter is an impartial non-player who, if need be, can be used for the game. eg. Determining ambigous rules, producing random numbers/results.
