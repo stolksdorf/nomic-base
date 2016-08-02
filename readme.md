@@ -16,6 +16,8 @@ All you need is a github account. All rules will always be recorded in the [rule
 3. Write your proposed change in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Give a short title to your change, and an more in-depth reasoning behind it. Then click `propose file change`.
 4. Click "Propose file change" then "Create Pull Request".
 
+**protip:** If you need some inspiration for a rule name, [check out this](https://en.wikipedia.org/wiki/List_of_Latin_legal_terms)
+
 ### comment and vote on amendments
 1. Click the 'Pull requests' along the top.
 2. Click on the pull request you wish to vote or comment on.
