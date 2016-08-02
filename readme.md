@@ -23,7 +23,7 @@ All you need is a github account. All rules will always be recorded in the [rule
 4. Only mods can merge in approved pull requests. Once a pull request is approved following the rules, add a message to the pull request using `@username` to notify the mod it's ready to be merged.
 
 ### conflicting pull requests
-Sometimes two pull requests may both be modifying the same part of the rules. If one is merged in before the other, the outstanding pull request may become _conflicted_. Github will display a grey message on the pull request indicating this. The proposer will have to close the conflicted pull request, create a new one that is not conflicting, and begin th voting process again.
+Sometimes two pull requests may both be modifying the same part of the rules. If one is merged in before the other, the outstanding pull request may become _conflicted_. Github will display a grey message on the pull request indicating this. The proposer will have to close the conflicted pull request, create a new one that is not conflicting, and begin the voting process again.
 
 ## implicit rules
 There are some aspects of the game that will not be listed as a changable rule, but still will take effect. Most of these will be obvious, but we'll list them here for reference.
