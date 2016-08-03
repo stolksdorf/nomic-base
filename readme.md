@@ -12,17 +12,23 @@ All you need is a github account. All rules will always be recorded in the [rule
 
 ### propose a rule amendment
 1. Click `rules.md`
-2. Click the pencil icon to edit the file.
-3. Write your proposed change in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Give a short title to your change, and an more in-depth reasoning behind it. Then click `propose file change`.
-4. Click "Propose file change" then "Create Pull Request".
+1. Click the pencil icon to edit the file.
+1. Write your proposed change in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Give a short title to your change, and an more in-depth reasoning behind it. Then click `propose file change`.
+1. Click "Propose file change" then "Create Pull Request".
 
 **protip:** If you need some inspiration for a rule name, [check out this](https://en.wikipedia.org/wiki/List_of_Latin_legal_terms)
 
 ### comment and vote on amendments
 1. Click the 'Pull requests' along the top.
-2. Click on the pull request you wish to vote or comment on.
-3. Write your comment or vote. For voting, use the reactions on the top comment to vote. :+1: to vote for it and :-1: to vote against.
-4. Only mods can merge in approved pull requests. Once a pull request is approved following the rules, add a message to the pull request using `@username` to notify the mod it's ready to be merged.
+1. Click on the pull request you wish to vote or comment on.
+1. Write your comment or vote. For voting, use the reactions on the top comment to vote. :+1: to vote for it and :-1: to vote against.
+1. Only mods can merge in approved pull requests. Once a pull request is approved following the rules, add a message to the pull request using `@username` to notify the mod it's ready to be merged.
+
+### join the game
+1. Propose a change to the `players.md` where you are added to the list of current players with the starting resources outlined by the current state of the rules.
+2. This pull request does not need to be voted on. A mod will double check the accuracy of the change and then merge it
+3. Congrats! You're now playing.
+
 
 ### conflicting pull requests
 Sometimes two pull requests may both be modifying the same part of the rules. If one is merged in before the other, the outstanding pull request may become _conflicted_. Github will display a grey message on the pull request indicating this. The proposer will have to close the conflicted pull request, create a new one that is not conflicting, and begin the voting process again.
