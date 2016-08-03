@@ -44,3 +44,6 @@ Each moderator will be set as a `collaborator` on the github repo, all other pla
 
 ### the arbiter
 The arbiter is an impartial non-player who, if need be, can be used for the game. eg. Determining ambigous rules, producing random numbers/results.
+
+## start your own game
+If you'd like to start your own version of this game, you'll need to duplicate this repo into a new one. Click the "plus arrow" in the navbar on the right and select "Import Repository". Use the url of this repo and call your new repo whatever you like, I suggest using the month-year or a unique name, incase you want to play mutliple times, eg. `nomic-aug2016` or `nomic-emeraldfury`. 
