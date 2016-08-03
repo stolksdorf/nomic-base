@@ -1,6 +1,6 @@
 Players                   | Points    |
 --------------------------| ---------:|
-player_1                  | 0         |
+CapnMadrick               | 0         |
 player_2                  | 0         |
 player_3                  | 0         |
 
