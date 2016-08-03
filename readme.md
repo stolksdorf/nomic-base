@@ -47,3 +47,5 @@ The arbiter is an impartial non-player who, if need be, can be used for the game
 
 ## start your own game
 If you'd like to start your own version of this game, you'll need to duplicate this repo into a new one. Click the "plus arrow" in the navbar on the right and select "Import Repository". Use the url of this repo and call your new repo whatever you like, I suggest using the month-year or a unique name, incase you want to play mutliple times, eg. `nomic-aug2016` or `nomic-emeraldfury`. 
+
+After you've created your duplicate, feel free to modify the starting rules (or anything else for that matter). Your new repo is completely separate from this one.
