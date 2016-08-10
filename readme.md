@@ -8,21 +8,24 @@ Github-based game of [Nomic](https://en.wikipedia.org/wiki/Nomic), a game where 
 _— Peter Suber, The Paradox of Self-Amendment_
 
 ## how to play
-All you need is a github account. All rules will always be recorded in the [rules.md](./rules.md) and all information about players and resources will be recorded in the [players.md](./players.md).
+The goal of nomic is to win. But how you win can change with each move. Each action in this game changes the very rules of the game. In order to win you must be cunning, crafty, and diplomatic. 
+
+To participate all you need is a [github account](https://github.com/join) and a basic understanding of [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Rules will always be recorded in the [rules.md](./rules.md) and all information about players and resources will be recorded in the [players.md](./players.md).
 
 ### propose a rule amendment
 1. Click `rules.md`
 1. Click the pencil icon to edit the file.
-1. Write your proposed change in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Give a short title to your change, and an more in-depth reasoning behind it. Then click `propose file change`.
+1. Write your proposed change in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Give a short title to your change and then a more in-depth reasoning behind it. Then click "Propose file change".
 1. Click "Propose file change" then "Create Pull Request".
+1. This will create a "Pull request". PLayers now will vote and comment on it, and hopefully a mod will merge it, if it passes.
 
 **protip:** If you need some inspiration for a rule name, [check out this](https://en.wikipedia.org/wiki/List_of_Latin_legal_terms)
 
 ### comment and vote on amendments
 1. Click the 'Pull requests' along the top.
-1. Click on the pull request you wish to vote or comment on.
+1. Click on the amendment (read: pull request) you wish to vote or comment on.
 1. Write your comment or vote. For voting, use the reactions on the top comment to vote. :+1: to vote for it and :-1: to vote against.
-1. Only mods can merge in approved pull requests. Once a pull request is approved following the rules, add a message to the pull request using `@username` to notify the mod it's ready to be merged.
+1. Only mods can merge in approved pull requests. Once a pull request is approved following the current rules, add a message to the pull request using `@modname` to notify the mod it's ready to be merged. They will then double check it and merge it.
 
 ### join the game
 1. Propose a change to the `players.md` where you are added to the list of current players with the starting resources outlined by the current state of the rules.
