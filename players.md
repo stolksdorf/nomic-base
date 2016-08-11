@@ -11,7 +11,7 @@ player_3                  | 0         |
 
 ### moderators
 - player_2
-- stolksdorf
+- player_3
 
 ### arbiter
 - player_0
