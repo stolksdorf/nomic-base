@@ -7,7 +7,7 @@
 
 
 #### 102: Ab Initio
-> All players begin with the resources of 0 points, 1 veto, and the title of 'ensign'. 
+> A player begins the game with resources consisting of: 0 points, 1 veto, and the title of 'ensign'. 
 
 
 #### 103: Rule of Amendment 
