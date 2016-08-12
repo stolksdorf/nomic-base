@@ -6,10 +6,8 @@
 > When the game ends, the player with the most points is considered the winner.
 
 
-#### 102: Points
-> All players begin with 0 points.
->
-> Points may not be gained, lost, or traded except as explicitly stated in the rules.
+#### 102: Ab Initio
+> All players begin with the resources of 0 points, 1 veto, and the title of 'ensign'. 
 
 
 #### 103: Rule of Amendment 
