@@ -1,8 +1,8 @@
-Players                   | Points    |
---------------------------| ---------:|
-player_1                  | 0         |
-player_2                  | 0         |
-player_3                  | 0         |
+Players                   | Points | Vetoes | Title           |
+--------------------------| ------:| ------:| ---------------:|
+player_1                  | 0      | 1      | ensign          |
+player_2                  | 0      | 1      | ensign          |
+player_3                  | 0      | 1      | ensign          |
 
 
 
