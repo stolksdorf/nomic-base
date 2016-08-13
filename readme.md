@@ -44,10 +44,10 @@ There are some aspects of the game that will not be listed as a changable rule, 
 1. No rule-change may take effect earlier than the moment of the completion of the vote that adopted it, even if its wording explicitly states otherwise. No rule-change may have retroactive application.
 1. If ever there is a disagreement over the intepretation of the rules that can not be resolved by the players, the arbiter may be called upon to cast judgment on the intepretation.
 1. Amendments are to be merged in chronoloigcal order of when they are accepted.
-1. Resources may not be changed, gained, lost, or traded except as explicitly stated in the rules.
+1. Resources may not be changed, gained, lost, or transferred except as explicitly stated in the rules.
 
 ### transfers
-To initiate a transfer of any kind between two players, first the nature of the transfer must be allowed within the current revision of the rules. If it is than one of those players submits a pull request modifying [players.md](players.md) outlining the change in resources. The other participant must approve the proposed exchange in the comments. Once approved, a mod will merge the change in. Please mark any transfer pull request by starting the pull request name with 'TRANSFER'.
+To initiate a resource transfer of any kind between two players, first the nature of the transfer must be allowed within the current revision of the rules. If it is, than one of the participating players submits a pull request modifying [players.md](players.md) outlining the change in resources. The other participant must approve the proposed exchange in the comments. Once approved, a mod will merge the change in. Please mark any transfer pull request by starting the pull request name with 'TRANSFER'.
 
 ### moderators
 Each moderator will be set as a `collaborator` on the github repo, all other players will be `contributors`. Their job is to merge in approved pull requests and update resources. There should be a minimum of two moderators.
