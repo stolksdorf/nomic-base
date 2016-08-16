@@ -13,7 +13,7 @@ player_3                  | 0      | 1      | ensign          |
 
 Players                   | Points | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
-_none_
+_none_                    |        |        |                 |
 
 ### moderators
 - player_2
