@@ -16,7 +16,7 @@
 
 
 #### 103: Player Status
-> A player has a status that may be considered 'active or 'inactive'. A player may submit an amendant to change their own status at any time and is considered immediately approved upon submitting.
+> A player has a status that is 'active or 'inactive'. A player may submit an amendment to change their own status at any time that is considered approved immediately upon submitting.
 >
 > An active player may submit an amendment to change the status of _another_ player at any time. 
 
