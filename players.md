@@ -6,6 +6,7 @@ player_1                  | 0      | 1      | ensign          |
 player_2                  | 0      | 1      | ensign          |
 player_3                  | 0      | 1      | ensign          |
 
+---
 
 ### inactive players
 
