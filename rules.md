@@ -3,7 +3,7 @@
 #### 101: Victory Condition
 > If a player has 100 or more points the game ends.
 >
-> When the game ends, the player with the most points is considered the winner.
+> When the game ends, the active player with the most points is considered the winner.
 
 
 
@@ -19,6 +19,7 @@
 > A player has a status that is `active` or `inactive`. A player may submit an amendment to change their own status at any time that is considered approved immediately upon submitting.
 >
 > An active player may submit an amendment<sup>1</sup> to change the status of _another_ player at any time. 
+> An inactive player cannot win the game.
 
 <sup>1. This amendment is voted on in accordance with the current rules.</sup>
 
