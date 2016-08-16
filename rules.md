@@ -20,13 +20,13 @@
 >
 > An active player may submit an amendment<sup>1</sup> to change the status of _another_ player at any time. 
 
-<sup>1</sup> This amendment is voted on in accordance with the current rules.
+<sup>1 - This amendment is voted on in accordance with the current rules.</sup>
 
 
 #### 104: Rule of Amendment 
 > An active player may submit an amendment<sup>1</sup> to the rules at any time. A player may only have one amendment open for voting and discussion at a time. The amendment may not be edited once it is submitted for voting and discussion. A player may close their amendment at any time. 
 
-[<sup>1</sup> How to propose](./readme.md#propose-a-rule-amendment)
+[<sup>1 - How to propose</sup>](./readme.md#propose-a-rule-amendment)
 
 
 
@@ -34,7 +34,7 @@
 #### 105: Liberum Veto
 > An amendment is approved if and only if the vote<sup>1</sup> is unanimous among the active players.
 
-[<sup>1</sup> How to vote](./readme.md#comment-and-vote-on-amendments)
+[<sup>1 - How to vote</sup>](./readme.md#comment-and-vote-on-amendments)
 
 
 
