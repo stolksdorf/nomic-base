@@ -9,18 +9,18 @@
 
 
 #### 102: Ab Initio
-> A player begins the game with the status of 'active' and with the resources consisting of: 0 points, 1 veto, and the title of 'ensign'. 
+> A player begins the game with the status of `active` and with the resources consisting of: 0 points, 1 veto, and the title of `ensign`. 
 
 
 
 
 
 #### 103: Player Status
-> A player has a status that is 'active or 'inactive'. A player may submit an amendment to change their own status at any time that is considered approved immediately upon submitting.
+> A player has a status that is `active` or `inactive`. A player may submit an amendment to change their own status at any time that is considered approved immediately upon submitting.
 >
-> An active player may submit an amendment to change the status of _another_ player at any time. 
+> An active player may submit an amendment<sup>1</sup> to change the status of _another_ player at any time. 
 
-
+<sup>1</sup> This amendment is voted on in accordance with the current rules.
 
 
 #### 104: Rule of Amendment 
