@@ -8,16 +8,16 @@ Github-based game of [Nomic](https://en.wikipedia.org/wiki/Nomic), a game where 
 _— Peter Suber, The Paradox of Self-Amendment_
 
 ## how to play
-The goal of nomic is to win. But how you win can change with each move. Each action in this game changes the very rules of the game. In order to win you must be cunning, crafty, and diplomatic. 
+The goal of nomic is to win, but how you win can change with each move. Each action you do in this game changes the very rules that govern it. In order to win you must be cunning, crafty, and above all, diplomatic. 
 
 To participate all you need is a [github account](https://github.com/join) and a basic understanding of [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Rules will always be recorded in the [rules.md](./rules.md) and all information about players and resources will be recorded in the [players.md](./players.md).
 
 ### propose a rule amendment
 1. Click `rules.md`
 1. Click the pencil icon to edit the file.
-1. Write your proposed change in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Give a short title to your change and then a more in-depth reasoning behind it. Then click "Propose file change".
+1. Write your proposed change in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Give a short title to your change and then a more in-depth reasoning behind it.
 1. Click "Propose file change" then "Create Pull Request".
-1. This will create a "Pull request". PLayers now will vote and comment on it, and hopefully a mod will merge it, if it passes.
+1. This will create a "Pull request". Players now will vote and comment on it, and if it becomes approved given the current state of the rules, a mod will merge it.
 
 **protip:** If you need some inspiration for a rule name, [check out this](https://en.wikipedia.org/wiki/List_of_Latin_legal_terms)
 
