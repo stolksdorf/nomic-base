@@ -29,7 +29,7 @@
 >
 > b) A player may submit an amendment to change their own status. This amendment is considered approved immediately upon submitting.
 >
-> c) An active player may submit an amendment<sup>1</sup> to change the status of another player. This amendment is voted on in accordance with the current rules on amendments.
+> c) An active player may submit an amendment to change the status of another player. This amendment is voted on in accordance with the current rules on amendments.
 
 
 
