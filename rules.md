@@ -42,7 +42,7 @@
 #### 106: Transfers
 > a) A player may initate a transfer of points between them and other player(s) by creating an amendment to the [players.md](player.md).
 > 
-> b) This amendment only requires the votes from the players involved to be considered approved.
+> b) This amendment only requires the votes from the players involved in the transfer to be considered approved.
 >
 > c) The total sum of points may not increase or decrease as a result of this amendment.
 
