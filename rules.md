@@ -10,7 +10,7 @@
 #### 102: Rule of Amendment 
 > a) An active player may submit an amendment<sup>1</sup> to the rules at any time. A player may close their amendment at any time.
 >
-> b) A player may only have 1 (one) and only 1 amendment open at a time.
+> b) A player may have only 1 amendment open at a time.
 >
 > c) The amendment may not be edited once it is submitted for voting and discussion. 
 
@@ -21,7 +21,7 @@
 #### 103: Liberum Veto
 > a) An amendment is approved if it has the majority the votes among the active players.
 >
-> b) There must be at least 3 (three) votes from active players for the amendment to be approved.
+> b) There must be at least 3 votes from active players for the amendment to be approved.
 
 
 
