@@ -7,6 +7,6 @@ This version ofthe game uses Github to keep track of the rules and to facilitate
 ### Get Started
 
 1. Create a [Github account](https://github.com/join)
-2. Make your first ammendant by adding yourself to the player list. Go to the [Players.md](players.md) file, click the little pencil icon and make your changes according to the current set of [rules](rules.md#102-ab-initio).
+2. Make your first ammendant by adding yourself to the player list. Go to the [Players.md](players.md) file, click the little pencil icon and make your changes according to the current set of [rules](rules.md#104-ab-initio).
 3. If this is your first amendant, it'll ask you to create a fork before submitting.
 4. Submit your amendment by creating a "pull request". As soon as it's merged in by a mod, you are playing!
