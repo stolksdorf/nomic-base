@@ -1,4 +1,4 @@
-# :tada: You are invited to play Nomic! :tada:
+# :tada: You are Cordially invited to play Nomic :tada:
 
 Nomic is an interesting game where each move in the game changes the rules of the game, even how you win can be modified. 
 
