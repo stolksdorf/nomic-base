@@ -48,3 +48,4 @@
 #### 106: Lex Anterior Derogat Priori
 > If two or more rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
 
+
