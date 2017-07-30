@@ -8,7 +8,7 @@
 
 
 #### 102: Ab Initio
-> A player begins the game with the status of `active` and with the resources consisting of: 0 points, 1 veto, and the title of `ensign`. 
+> A player begins the game with the status of `active` and with the resources consisting of: 0 points, 1 veto, and the [title](https://en.wikipedia.org/wiki/Royal_and_noble_ranks) of `Esquire`. 
 
 
 
