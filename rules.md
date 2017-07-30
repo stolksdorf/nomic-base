@@ -36,15 +36,24 @@
 
 
 #### 105: Liberum Veto
-> An amendment is approved if and only if the vote<sup>1</sup> is unanimous among the active players.
+> a) An amendment is approved if and only if the vote<sup>1</sup> is unanimous among the active players.
 >
-> There must be at least votes from active players for the amendment to be approved.
+> b) There must be at least 3 (three) votes from active players for the amendment to be approved.
 
 [<sup>1. How to vote</sup>](./readme.md#comment-and-vote-on-amendments)
 
 
 
 
+
 #### 106: Lex Anterior Derogat Priori
 > If two or more rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
+
+
+#### 107: Transfers
+> a) A player may initate a transfer of points between them and other player(s) by creating an amendment to the [players.md](player.md).
+> 
+> b) This amendment only requires :+1: votes from the players involved to be considered approved.
+>
+> c) The total sum of points may not increase or decrease as a result of this amendment.
 
