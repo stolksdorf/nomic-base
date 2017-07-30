@@ -49,3 +49,4 @@
 >
 > c) The total sum of points may not increase or decrease as a result of this amendment.
 
+
