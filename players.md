@@ -2,11 +2,11 @@
 
 Players                   | Points | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
-player_1                  | 0      | 1      | ensign          |
-player_2                  | 0      | 1      | ensign          |
-player_3                  | 0      | 1      | ensign          |
+player1                   | 0      | 1      | Esquire         |
+player2                   | 0      | 1      | Esquire         |
+player3                   | 0      | 1      | Esquire         |
 
----
+___
 
 ### inactive players
 
@@ -15,13 +15,13 @@ Players                   | Points | Vetoes | Title           |
 _none_                    |        |        |                 |
 
 
----
+___
 
 
 ### moderators
-- player_2
-- player_3
+- player2
+- player3
 
 
 ### arbiter
-- player_0
+- player0
