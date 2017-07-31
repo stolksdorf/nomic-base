@@ -45,12 +45,12 @@ There are some aspects of the game that will not be listed as a changable rule, 
 Sometimes two pull requests may both be modifying the same part of the rules. If one is merged in before the other, the outstanding pull request may become _conflicted_. Github will display a grey message on the pull request indicating this. The proposer will have to close the conflicted pull request, create a new one that is not conflicting, and begin the voting process again.
 
 ### moderators
-Each moderator will be set as a `collaborator` on the github repo, all other players will be `contributors`. Their job is to merge in approved pull requests and update resources. There should be a minimum of two moderators.
+Each moderator will be set as a `collaborator` on the github repo, all other players will be `contributors`. Their job is to review and merge in approved amendments. There should be a minimum of two moderators.
 
 ### the arbiter
-The arbiter is an impartial non-player who, if need be, can be used for determining ambigous rules, producing random numbers/results, etc.
+The arbiter is an impartial non-player who, if need be, can be used for determining ambiguous rules, producing random numbers/results, etc. The arbiter is listed in the *[Players.md](players.md)*. Each game should have at least one.
 
 ## start your own game
 If you'd like to start your own version of this game, you'll need to duplicate this repo into a new one. Click the "plus arrow" in the navbar on the right and select "Import Repository". Use the url of this repo and call your new repo whatever you like, I suggest using the month-year or a unique name, incase you want to play mutliple times, eg. `nomic-aug2016` or `nomic-emeraldfury`. 
 
-After you've created your duplicate, feel free to modify the starting rules (or anything else for that matter). Your new repo is completely separate from this one.
+After you've created your duplicate, feel free to modify the starting rules (or anything else for that matter). Your new repo is completely separate from this one. Send out invites by sending the *[Invitation.md](invitation.md)* url to them.
