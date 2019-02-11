@@ -19,9 +19,9 @@
 
 
 #### 103: Liberum Veto
-> a) An amendment is approved if it has the majority the votes among the active players.
->
-> b) There must be at least 3 votes from active players for the amendment to be approved.
+> a) There must be at least 3 votes from active players on the amendment for it to be considered for approval.
+> 
+> b) An amendment becomes approved if it has the majority the votes among the active players.
 
 
 
