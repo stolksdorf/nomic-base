@@ -2,7 +2,7 @@
 
 Nomic is an interesting game where each move in the game changes the rules of the game, even how you win can be modified. 
 
-This version ofthe game uses Github to keep track of the rules and to facilitate voting and discussion on rule changes. The game is played in a [correspondence](https://en.wikipedia.org/wiki/Correspondence_chess) fashion, so you only need to check in every few days. There are also rules for going _inactive_ if you can't play for a short period or wish to take a break.
+This version of the game uses Github to keep track of the rules and to facilitate voting and discussion on rule changes. The game is played in a [correspondence](https://en.wikipedia.org/wiki/Correspondence_chess) fashion, so you only need to check in every few days. There are also rules for going _inactive_ if you can't play for a short period or wish to take a break.
 
 ### Get Started
 
